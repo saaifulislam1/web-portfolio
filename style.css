@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    padding: 0;
+  
+}
+.half-width{
+    width: 40%;
+     float: left;
+    
+    margin-left: 5%;
+    padding-left: 2%;
+    margin-bottom: 50px;
+  
+   
+   
+    
+    
+
+}
+.para1{
+    padding: 5px;
+}
+
+.button1{
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(lightsalmon,tomato);
+
+    padding: 10px;
+    border-radius: 5px;
+    font-size: large;
+   
+
+
+}
+.orange-highlight{
+    color:orange;
+}
+.h1{
+    font-size: 40px;
+}
+h2{
+    font-size: 29px;
+}
+
+.half-width img{
+    margin-top: 10px;
+    width: 100%;
+    margin-left: 10px;
+   
+}
+.top-banner{
+   
+
+    background-image: url(image/top-banner.png);
+    height: 500px;
+    
+}
+.dream-area{
+    background-image: url(image/dream-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.experience-area{
+    background-image: url(image/exp-bg.png);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-position: left;
+    
+     
+}
+.single-box{
+height: 70%;
+    box-shadow: 10px 10px 40px gray;
+}
+#single-slice{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-image-slice: 1;
+}
+#single-slice2{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice: 1;
+}
+
+
+
+
+
